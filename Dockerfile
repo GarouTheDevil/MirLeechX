@@ -1,4 +1,4 @@
-FROM iamliquidx/mirleechxsdk:a8ce33bccdde0806fbd0541d5faf33e63a572582
+FROM codewithweeb/weebzone:stable
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
